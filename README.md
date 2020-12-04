@@ -1,1 +1,3 @@
-# linux_and_vim
+config files
+reference / notes
+scripts

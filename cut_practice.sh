@@ -19,4 +19,3 @@ second_command() {
 }
 # order matters - function must be declared before it is called
 second_command
-
